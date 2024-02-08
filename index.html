@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <title>Polybius Square Cipher</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+        <body>
+            <div class="grid">
+                <div class="description">
+                  <div id="title" class="h1">
+                    Polybius Square Cipher
+                  </div>
+                  <div>
+                    <p>
+                      The Polybius Square Cipher was invented by the ancient Greek philosopher, Polybius, in the 2nd century BCE. He was renowned for his chronicles of the rise of the Roman Republic, provided detailed accounts of military tactics and strategies.
+                    </p>
+                    <p>
+                      Polybius is credited with the development of the Polybius Square Cipher, which he described in his writings as a method for secret communication among trusted individuals. The cipher's simplicity and effectiveness made it a popular choice for encryption during ancient times.
+                    </p>
+                    <div id="start" class="button disabled" onclick="restart();">
+                      start
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div id="polybius-container"></div>
+                </div>
+                <div id="clear" class="clear">
+                  <p>
+                    A simple <a href="https://en.wikipedia.org/wiki/Substitution_cipher">substitution cipher</a>. Each letter in plaintext is a pair of numerical coordinates, their position in a grid. The grid used for the Polybius Square is a 5x5 square, with letters arranged in alphabetical order (excluding "J").
+                  </p>
+                  <p>To encrypt a message, map each letter in the plaintext to its pair of row and column numbers coordinate in the grid. For example, "A" maps to (1,1), "B" to (1,2), and so on. This pair of coordinates forms the ciphertext. Decryption: reverse this process, look up each pair of coordinates in the grid to reveal the letters.
+              
+                  </p>
+              
+                  <div id="cipher" class="cipher">
+                    22 43 44 16 42 44 26
+                  </div>
+              
+                </div>
+              
+                <div class="footer">
+              
+                  <a href="https://github.com/hirako2000"> Author</a> | <a href="https://github.com/hirako2000/polybius-square-cipher">Source code</a>
+              
+                </div>
+              
+              </div>
+            <script src="script.js"></script>
+
+        </body>
+</html>
