@@ -29,7 +29,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://polybius.mtassoumt.uk)
 
-There are many ciphers out there. Some of them are old. Substitution is a type of cipher method used for millenia to covert written forms of commnication. They can be quite easily defeated with frequency analysis, but how do they work?
+There are many ciphers out there. Some of them are old. Substitution is a type of cipher method used for millenia to covert written forms of communication. They can be quite easily defeated with frequency analysis, but how do they work?
 
 This project demonstrates visually the functionning of the Polybius square cipher. Give it a try.
 
