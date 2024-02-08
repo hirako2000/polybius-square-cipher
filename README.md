@@ -121,6 +121,6 @@ Distributed under the MIT License.
 
 [issues-shield]: https://img.shields.io/github/issues/hirako2000/polybius-square-cipher.svg?style=for-the-badge
 [issues-url]: https://github.com/hirako2000/polybius-square-cipher/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/product-screenshot.png
 
 
