@@ -16,7 +16,7 @@
     <br />
     <a href="https://polybius.mtassoumt.uk">View Demo</a>
     .
-    <a href="https://github.com/hirako2000/polybius-square-cipher#About">About</a>
+    <a href="#About">About</a>
     ·
     <a href="https://github.com/hirako2000/polybius-square-cipher/issues">Report Bug</a>
     ·
