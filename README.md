@@ -9,10 +9,9 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Polybius Square Cipher</h3>
 
   <p align="center">
-    Polybius Square Cipher
     <br />
     <a href="https://polybius.mtassoumt.uk">View Demo</a>
     .
