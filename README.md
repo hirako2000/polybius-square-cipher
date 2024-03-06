@@ -40,8 +40,23 @@ The grid was added an extra row and covers the letter J as well.
 
 ### Get started
 
-- Checkout the repo
-- Serve its root
+- Clone/checkout the repo
+
+```bash
+npm install # install npm dependencies
+```
+
+**develop**
+
+```bash
+npm run dev
+```
+
+**build**
+
+```bash
+npm run build
+```
 
 or see demo
 

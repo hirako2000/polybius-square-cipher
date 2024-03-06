@@ -1,1 +1,7 @@
 .DS_Store
+
+dist
+.parcel-cache
+public
+
+node_modules

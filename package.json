@@ -1,0 +1,27 @@
+{
+  "name": "polybius",
+  "version": "0.0.1",
+  "description": "Visualisation of cryptographic ciphers",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build",
+    "test": "exit 0"
+  },
+  "keywords": [
+    "visualisation",
+    "cipher",
+    "cryptography",
+    "encryption",
+    "decryption"
+  ],
+  "author": "hirako2000",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "parcel": "2.12.0"
+  },
+  "dependencies": {
+    "yoffee": "^0.0.13"
+  }
+}
